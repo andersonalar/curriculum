@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://andersonalar.github.io/projeto_integrador2/imagens/foto.png" align="center" style="width: 100%" />
+<img src="https://andersonalar.github.io/projeto_integrador2/imagens/foto.png " align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Meu nome é Anderson estou cursando curso superior em tecnologia sistema para internet 4 semestre</div>  
+### <div align="center">Meu nome é Anderson estou cursando curso superior em tecnologia sistema para internet 4 semestre no IFB instituto federal de Brasília</div>  
   
 
 - Em fevereiro de 2025 entrei no curso da alura  
