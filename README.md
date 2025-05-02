@@ -9,7 +9,7 @@
 - Em fevereiro de 2025 entrei no curso da alura  
   
 
-- Estou fazendo curso na hastg treinamentos   
+- Estou fazendo curso na hastag treinamentos   
   
 
 - 
