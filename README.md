@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://andersonalar.github.io/projeto_integrador2/imagens/foto.png " align="center" style="width: 100%" />
+<img src="https://andersonalar.github.io/projeto_integrador2/imagens/foto.png" align="center" style="width: 100%" />
 </div>  
   
 
