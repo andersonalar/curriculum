@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Meu nome é Anderson estou cursando curso superior em tecnologia sistema para internet 4 semestre no IFB instituto federal de Brasília</div>  
+### <div align="center">Meu nome é Anderson estou cursando curso superior em tecnologia sistema para internet 5 semestre no IFB instituto federal de Brasília</div>  
   
 
 - Em fevereiro de 2025 entrei no curso da alura  
