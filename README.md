@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Em fevereiro de 2025 entrei no curso da alura</div>  
+### <div align="center">Meu nome é Anderson estou cursando curso superior em tecnologia sistema para internet 5 semestre no IFB instituto federal de Brasília</div>  
   
 
 - Estou fazendo curso na hashtag treinamentos  
@@ -15,7 +15,7 @@
 - Estou a procura de estágio ou concurso público  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- Em fevereiro de 2025 entrei no curso da alura  
   
 
 <br/>  
@@ -146,4 +146,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>r">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>tor.rishav.dev/" target="_blank">Github Profilinator</a></div>
