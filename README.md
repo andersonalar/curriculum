@@ -3,21 +3,19 @@
 </div>  
   
 
-### <div align="center">Meu nome é Anderson estou cursando curso superior em tecnologia sistema para internet no IFB instituto federal de Brasília</div>  
+### <div align="center">Meu nome é Anderson conclui o  curso superior em tecnologia sistema para internet em 2025 no IFB instituto federal de Brasília</div>  
   
 
-- Estou fazendo curso na hashtag treinamentos  
-  
+- Estou fazendo curso na hashtag treinamentos em 2025.
+
+- Em fevereiro de 2025 entrei no curso da Alura
+
+- Em fevereiro de 2026 entrei no curso da Udemy  
 
 - Tenho curso de técnico em sistema de informação ou informática  
   
-
 - Estou a procura de estágio ou concurso público  
   
-
-- Em fevereiro de 2025 entrei no curso da alura  
-  
-
 <br/>  
 
 
