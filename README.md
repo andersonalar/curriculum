@@ -146,5 +146,9 @@ If things goes well, this section should automatically be replaced by a list of 
 
                                                          <center><h1>Certificados</h1></center>
 <img width="1135" height="679" alt="image" src="https://github.com/user-attachments/assets/c76c4671-0f9c-4988-ab63-c42f14382bc4" />
+<br>
+<br>
+<img width="987" height="681" alt="image" src="https://github.com/user-attachments/assets/bdad3387-a9b0-47da-8868-09a50a1a65cb" />
+
 
 
