@@ -176,6 +176,12 @@ If things goes well, this section should automatically be replaced by a list of 
 <br>
 <br>
 
+<img width="697" height="527" alt="image" src="https://github.com/user-attachments/assets/2d48c508-87ed-410b-9c23-e8a0dc80f7de" />
+
+<br>
+<br>
+
+
 <img width="749" height="532" alt="image" src="https://github.com/user-attachments/assets/6e5f7b63-9a88-49e8-90d7-9892f2b6c6e9" />
 <br>
 <br>
