@@ -10,7 +10,9 @@
 
 - Em fevereiro de 2025 entrei no curso da Alura
 
-- Em fevereiro de 2026 entrei no curso da Udemy  
+- Em fevereiro de 2026 entrei no curso da Udemy
+
+- Segundo semestre de 2023 comecei o Curso Superior Administração EAD pela faculdade UCB Universidade Católica de Brasilia
 
 - Tenho curso de técnico em sistema de informação ou informática  
   
