@@ -172,9 +172,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br>
 <br>
 
-<img width="703" height="529" alt="image" src="https://github.com/user-attachments/assets/8bb44c99-b12d-4e32-b790-4d8e209a8ec6" />
-<br>
-<br>
+
 
 <img width="697" height="527" alt="image" src="https://github.com/user-attachments/assets/2d48c508-87ed-410b-9c23-e8a0dc80f7de" />
 
