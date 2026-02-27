@@ -14,6 +14,8 @@
 
 - Segundo semestre de 2023 comecei o Curso Superior Administração EAD pela faculdade UCB Universidade Católica de Brasilia
 
+- 27 de fevereiro de 2026 comecei a estudar Ingles(iniciante)Primeiro Semestre : CILC-Centro interescolar de línguas de Ceilândia
+
 - Tenho curso de técnico em sistema de informação ou informática  
   
 - Estou a procura de estágio ou concurso público  
