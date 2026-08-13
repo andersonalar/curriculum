@@ -149,6 +149,12 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>tor.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
                                                              Certificados
+
+<img width="836" height="570" alt="image" src="https://github.com/user-attachments/assets/593567c5-fad0-4cbd-b273-11c936d54ce4" />
+<img width="836" height="570" alt="image" src="https://github.com/user-attachments/assets/70c5ac20-eedf-40d4-9aef-d5131d138999" />
+<br><br>
+
+
 <img width="1135" height="679" alt="image" src="https://github.com/user-attachments/assets/c76c4671-0f9c-4988-ab63-c42f14382bc4" />
 <br>
 <br>
