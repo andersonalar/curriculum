@@ -1,4 +1,4 @@
-<img width="876" height="622" alt="image" src="https://github.com/user-attachments/assets/fa7c0e2a-c7a0-4ceb-9bff-52ebda294438" /><div align="center">
+
 <img src="https://camo.githubusercontent.com/a76ff37ef740b5f2fc4484ffad9181f4c9c19d19b641021d27577165ac767876/68747470733a2f2f616e646572736f6e616c61722e6769746875622e696f2f70726f6a65746f5f696e7465677261646f72322f696d6167656e732f666f746f2e706e67" align="center" style="width: 100%" />
 </div>  
   
