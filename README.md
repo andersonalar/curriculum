@@ -32,7 +32,7 @@
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   
-<img width="876" height="622" alt="image" src="https://github.com/user-attachments/assets/84929f5e-8954-470f-8e56-de7eb9106c60" />
+
 
 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -155,6 +155,9 @@ If things goes well, this section should automatically be replaced by a list of 
                                                              Certificados
 
 <img width="836" height="570" alt="image" src="https://github.com/user-attachments/assets/593567c5-fad0-4cbd-b273-11c936d54ce4" />
+
+<img width="888" height="626" alt="image" src="https://github.com/user-attachments/assets/1fbace35-f8e9-40a4-a6bc-356c6ac10878" />
+
 <img width="836" height="570" alt="image" src="https://github.com/user-attachments/assets/70c5ac20-eedf-40d4-9aef-d5131d138999" />
 <br><br>
 
