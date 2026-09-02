@@ -1,4 +1,4 @@
-<div align="center">
+<img width="876" height="622" alt="image" src="https://github.com/user-attachments/assets/fa7c0e2a-c7a0-4ceb-9bff-52ebda294438" /><div align="center">
 <img src="https://camo.githubusercontent.com/a76ff37ef740b5f2fc4484ffad9181f4c9c19d19b641021d27577165ac767876/68747470733a2f2f616e646572736f6e616c61722e6769746875622e696f2f70726f6a65746f5f696e7465677261646f72322f696d6167656e732f666f746f2e706e67" align="center" style="width: 100%" />
 </div>  
   
@@ -30,7 +30,11 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+  
+<img width="876" height="622" alt="image" src="https://github.com/user-attachments/assets/84929f5e-8954-470f-8e56-de7eb9106c60" />
+
+
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
