@@ -164,7 +164,8 @@ If things goes well, this section should automatically be replaced by a list of 
 <br><br>
 
 
-<img width="1135" height="679" alt="image" src="https://github.com/user-attachments/assets/c76c4671-0f9c-4988-ab63-c42f14382bc4" />
+<img width="897" height="627" alt="image" src="https://github.com/user-attachments/assets/b571d55f-8f10-400c-bbe5-9832b5b3fa47" />
+
 <br>
 <br>
 <img width="897" height="636" alt="image" src="https://github.com/user-attachments/assets/697def28-dc9b-49a6-9ac6-77cc8ea07833" />
